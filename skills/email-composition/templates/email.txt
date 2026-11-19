@@ -1,0 +1,10 @@
+Hello {manager},
+
+The sales analysis is complete. Total revenue is {total_revenue}, and total quantity sold is {total_quantity}.
+
+The highest-performing product is {highest_performing_product}, while the lowest-performing product is {lowest_performing_product}.
+
+The professional PDF report is attached for your review.
+
+Kind regards,
+Sales Reporting Assistant

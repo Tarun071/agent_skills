@@ -1,0 +1,49 @@
+@report-layout {
+  --page-width: 612;
+  --page-height: 792;
+  --margin-left: 54;
+  --margin-right: 54;
+  --margin-top: 54;
+  --margin-bottom: 54;
+
+  --title-font: Helvetica-Bold;
+  --title-size: 20;
+  --title-leading: 24;
+  --title-color: #000000;
+  --title-space-after: 14;
+
+  --heading-font: Helvetica-Bold;
+  --heading-size: 13;
+  --heading-leading: 16;
+  --heading-color: #1F4E78;
+  --heading-space-after: 8;
+
+  --body-font: Helvetica;
+  --body-size: 10;
+  --body-leading: 14;
+  --body-color: #333333;
+  --body-space-after: 0;
+
+  --section-spacing: 18;
+  --table-spacing: 8;
+  --insights-spacing: 10;
+
+  --table-header-background: #1F4E78;
+  --table-header-color: #FFFFFF;
+  --table-header-font: Helvetica-Bold;
+  --table-body-font: Helvetica;
+  --table-grid-color: #808080;
+  --table-grid-width: 0.5;
+  --table-alternate-background: #EAF2F8;
+  --table-header-top-padding: 8;
+  --table-header-bottom-padding: 8;
+  --table-body-top-padding: 6;
+  --table-body-bottom-padding: 6;
+
+  --footer-enabled: true;
+  --footer-left-text: Sales Performance Report;
+  --footer-font: Helvetica;
+  --footer-size: 8;
+  --footer-color: #666666;
+  --footer-y: 24;
+}
